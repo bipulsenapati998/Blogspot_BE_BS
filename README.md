@@ -12,6 +12,13 @@ In the root directory of the project...
 1. Install NodeJs on your system.(https://nodejs.org/en/)
 2. Install POSTMAN for API testing.
 
+## REST Endpoints
+POST: http://localhost:3000/post/blogdetails
+GET: http://localhost:3000/get/blogdetails
+PATCH: http://localhost:3000/patch/blogdetails/8
+DELETE: http://localhost:3000/delete/10
+As per current impementation no database is required. However Mongodb can be added to as database
+
 ## **Feature Implementation**
 | 1  | Device Type  | Desktop/Tablet/Mobile  |  
 |---|---|---|
